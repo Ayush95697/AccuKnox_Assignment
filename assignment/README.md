@@ -28,5 +28,5 @@ All three scripts use parameterized SQL throughout (never string-formatted queri
 
 ## Links (Assignment 1, items 4 & 5)
 
-- Most complex Python code: `<paste your CrowdMind AI or ML Experiment AutoPilot repo link here>`
-- Most complex database/SQL code: `<paste your Enterprise RAG Agent / LLM eval harness repo link here>`
+- Most complex Python code: `https://github.com/Ayush95697/ML-Experiment-Auto-pilot-`
+- Most complex database/SQL code: `https://github.com/Ayush95697/Bedrock_agent`
